@@ -62,7 +62,8 @@ cd your-blog-name
 
 This will create a new Hugo project directory with the specified name.
 
-![](Aspose.Words.b0c61065-61ef-4c7b-bedd-84ef28f3ad2c.001.png)
+![hugo_menu](https://github.com/Rishirishaban/Personal-Blog/assets/147408175/44c902f9-f336-4c8d-b61b-a2b08b2a28eb)
+
 
 **3. Choose or Create a Hugo Theme:**
 
@@ -70,7 +71,8 @@ You can choose an existing Hugo theme for your travel blog or create a custom th
 
 To add a theme to your project, you can either clone it into the themes directory of your project or use Git submodules.
 
-![](Aspose.Words.b0c61065-61ef-4c7b-bedd-84ef28f3ad2c.002.png)
+![theme](https://github.com/Rishirishaban/Personal-Blog/assets/147408175/f1a86d40-d5b0-46f0-aff4-7aed66112c6d)
+
 
 \# Cloning a theme (replace theme-url with the theme's Git repository URL)
 
@@ -108,7 +110,8 @@ hugo server -D
 
 This will start a local development server, and you can access your website by opening a web browser and navigating to [**http://localhost:1313**](http://localhost:1313).
 
-![](Aspose.Words.b0c61065-61ef-4c7b-bedd-84ef28f3ad2c.003.png)
+![dark](https://github.com/Rishirishaban/Personal-Blog/assets/147408175/022a174d-052a-46ad-a58f-345e5b0e5f4c)
+
 
 **8. Build Your Website:**
 
